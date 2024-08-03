@@ -1,0 +1,10 @@
+{
+    "Project": {
+        "Name": "ServerlessCdk",
+        "Stage": "Demo",
+        "Account": "454696757541",
+        "Region": "us-east-1",
+        "Profile": "141",
+        "Repo": "reponame"
+    }
+} 
